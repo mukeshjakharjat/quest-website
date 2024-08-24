@@ -19,10 +19,10 @@
 	},
 	"top_banner": {
 		"enable": true,
-		"description": "-50% Intro price for the next 72 hours only!.",
+		"description": "Get 30% Off Your First Custom Personal Or Professional Business Website Design!",
 		"end_link": {
-			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
-			"text": "Buy now  →",
+			"url": "https://www.nesscode.com/get-a-quote",
+			"text": "Get Started  →",
 			"new_tab": true
 		}
 	},
@@ -32,18 +32,18 @@
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
-		"site_email": "Your Email",
-		"site_phone": "Your Phone",
-		"site_address": "Your Address",
-		"site_city": "Your City",
-		"site_state": "Your State",
-		"site_zip": "Your Zip",
-		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
+		"site_title": "Mukesh Quest | Discover Insights with Mukesh Jakhar",
+		"site_description": "Explore the journey of knowledge, technology, travel, social issues, and personal growth with Mukesh Jakhar.",
+		"site_keywords": " Mukesh Jakhar, Blogging, Technology, Personal Growth, Mukesh Quest, Insights, Knowledge, Tech Trends, Inspiration, travel in India, How To Earn In india",
+		"site_author": "Mukesh Jakhar",
+		"site_email": "mukeshquestblogs@gmail.com",
+		"site_phone": "",
+		"site_address": "Instant Space",
+		"site_city": "Jaipur",
+		"site_state": "Rajasthan",
+		"site_zip": "302021",
+		"site_country": "India",
+		"site_url": "https://mukesh.quest",
 		"site_logo": "/logo.png",
 		"site_logo_light": "/logo-light.png",
 		"site_favicon": "/favicon.png"
@@ -51,28 +51,28 @@
 	"site_socials": [
 		{
 			"name": "facebook",
-			"url": "https://www.facebook.com/yourfacebookpage",
+			"url": "https://www.facebook.com/mukeshquest",
 			"icon": "/images/socials/facebook.svg",
 			"description": "Follow us on Facebook"
 		},
 		{
-			"name": "twitter",
-			"url": "https://twitter.com/yourtwitterpage",
+			"name": "X",
+			"url": "https://x.com/mukesh_quest",
 			"icon": "/images/socials/x-twitter.svg",
-			"description": "Follow us on Twitter"
+			"description": "Follow us on X (Twitter)"
 		},
 
 		{
-			"name": "github",
-			"url": "https://www.github.com/yourmediumpage",
-			"icon": "/images/socials/github.svg",
-			"description": "Follow us on Github"
+			"name": "Instagram",
+			"url": "https://www.instagram.com/mukesh.quest",
+			"icon": "/images/socials/instagram.svg",
+			"description": "Follow us on Instagram"
 		},
 		{
-			"name": "tiktok",
-			"url": "https://www.tiktok.com/yourtiktokpage",
-			"icon": "/images/socials/tiktok.svg",
-			"description": "Follow us on Tiktok"
+			"name": "Telegram",
+			"url": "https://t.me/mukeshquest",
+			"icon": "/images/socials/telegram.svg",
+			"description": "Join Our Telegram Channel"
 		}
 	],
 	"site_header": {
@@ -81,7 +81,7 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2023 ChisNghiax Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2024 Mukesh Quest By . All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
@@ -92,17 +92,23 @@
 			"enable": true,
 			"title": "Recommended searches",
 			"items": [
-				{
-					"title": "Programming",
-					"url": "/search/posts/programming"
-				},
-				{
-					"title": "Design",
-					"url": "/search/posts/design"
-				},
+				
+				
 				{
 					"title": "Technology",
 					"url": "/search/posts/technology"
+				},
+				{
+					"title": "Digital Marketing",
+					"url": "/search/posts/digital-marketing"
+				},
+				{
+					"title": "Travel",
+					"url": "/search/posts/travel"
+				},
+				{
+					"title": "Social Dynamics",
+					"url": "/search/posts/social-dynamics"
 				}
 			]
 		},
@@ -119,7 +125,7 @@
 	},
 	"post_card": {
 		"show_view_cout": false,
-		"show_comment_count": true
+		"show_comment_count": false
 	},
 	"submissions-settings": {
 		"enable": true,
@@ -181,33 +187,33 @@
 		"title": "Lost your password?",
 		"sub_title": "Enter your email below to reset your password.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Your personal information is safe with us. We value your privacy and will never share your data without your consent.",
+			"author": "Nesscode Studio"
 		}
 	},
 	"signUp_page": {
 		"title": "Create an account",
 		"sub_title": "Enter your email below to create your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Welcome! Create an account to unlock the full potential of Mukesh Quest. As a member, you’ll get personalized content, early access to new posts, and the ability to engage with a community of like-minded individuals.",
+			"author": "Nesscode Studio"
 		}
 	},
 	"signIn_page": {
 		"title": "Sign in to your account",
 		"sub_title": "Enter your email below to sign in to your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Welcome Back to Mukesh Quest | We’re glad to see you again! Please sign in to access your account and continue exploring insightful blogs, tech updates, and personal growth stories.",
+			"author": "Nesscode Studio"
 		},
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
 			"message": "Lost password not implemented yet! Please contact admmin for support.",
-			"url_lostpassword_default_of_wp": "https://yourwebsite.com/wp-login.php?action=lostpassword"
+			"url_lostpassword_default_of_wp": "https://mukesh.quest/wp-login.php?action=lostpassword"
 		}
 	},
 	"mobile_nav_sidebar": {
-		"description": "Discover the most outstanding articles on all topics of life. Write your stories and share them with the community. "
+		"description": "Start your journey here. Discover the latest posts, trending topics, and featured content. Write your stories and share them with the community. "
 	},
 	"help_page": {
 		"uri": "/helps",
@@ -226,26 +232,26 @@
 			{
 				"name": "address",
 				"title": "🚀 ADDRESS",
-				"desc": "123 Main Street, New York, NY 10001"
+				"desc": "Jaipur, India"
 			},
 			{
 				"name": "email",
 				"title": "💌 EMAIL",
-				"desc": "example@example.com"
+				"desc": "mukeshquestblogs@gmail.com"
 			},
-			{
-				"name": "phone",
-				"title": "☎️ PHONE",
-				"desc": "+88 123 456 789"
-			},
-			{
+		        {
 				"name": "working_hours",
 				"title": "🕒 WORKING HOURS",
-				"desc": "Mon - Fri: 9:00 - 19:00"
+				"desc": "Mon - Sat: 9:00 - 21:00"
 			},
 			{
 				"name": "socials",
 				"title": "👋 SOCIALS"
+			},
+			{
+				"name": "phone",
+				"title": "📋 NOTE",
+				"desc": "I'm always excited to hear from you! Whether you have a question, need help with a project, or just want to say hello, don't hesitate to get in touch."
 			}
 		]
 	},
